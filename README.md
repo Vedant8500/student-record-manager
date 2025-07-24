@@ -1,4 +1,4 @@
-# student record manager
+# Student record manager
 This is a simple **Python command-line application** to manage student records.  
 It allows you to:
 
